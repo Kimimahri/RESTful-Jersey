@@ -1,2 +1,3 @@
 # RESTful-Jersey
-Pgsql RESTful Jersey Web Service
+Small Pgsql RESTful Jersey Web Service.
+Yeah!
